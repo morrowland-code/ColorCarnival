@@ -1,0 +1,1 @@
+strawbebby.say(["Welcome!", "Let’s start by uploading your palette!"]);
